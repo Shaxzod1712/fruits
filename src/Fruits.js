@@ -38,6 +38,13 @@
 //                         <p className='title'>Total</p>
 //                         <p className='value'>{this.info.total}</p>
 //                     </div>
+<div className='data'>
+//                         <p className='title'>Total</p>
+//                         <p className='value'>{this.info.total}</p>
+//                     </div>,<div className='data'>
+//                         <p className='title'>Total</p>
+//                         <p className='value'>{this.info.total}</p>
+//                     </div>
 //                 </div>
 //             </div>
 //         </div>
